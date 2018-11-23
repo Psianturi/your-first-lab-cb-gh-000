@@ -1,1 +1,3 @@
-tests
+hello world!!
+My name is Posma Janius, From Indonesia.
+Now i learn from Learn IDE 
